@@ -22,6 +22,7 @@
 		FAC4C3C72060E94D0074F4E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAC4C3CA2060E94D0074F4E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FAC4C3CC2060E94D0074F4E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAC4C3D22061D1CE0074F4E3 /* sharePDF.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = sharePDF.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				FAC4C3C72060E94D0074F4E3 /* Assets.xcassets */,
 				FAC4C3C92060E94D0074F4E3 /* LaunchScreen.storyboard */,
 				FAC4C3CC2060E94D0074F4E3 /* Info.plist */,
+				FAC4C3D22061D1CE0074F4E3 /* sharePDF.pdf */,
 			);
 			path = "IOS-Swift-ShareContent01";
 			sourceTree = "<group>";
