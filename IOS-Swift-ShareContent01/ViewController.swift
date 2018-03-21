@@ -40,7 +40,7 @@ class ViewController: UIViewController , UIDocumentInteractionControllerDelegate
     
     
     @IBAction func shareImageTapped(_ sender: Any) {
-        guard let image = UIImage(named: "shareME") else { return }
+        guard let image = UIImage(named: "shareMe") else { return }
         let activityController = UIActivityViewController(activityItems: [image], applicationActivities: nil)
         
         activityController.completionWithItemsHandler = { (nil, completed, _, error) in
@@ -57,7 +57,7 @@ class ViewController: UIViewController , UIDocumentInteractionControllerDelegate
     
     
     @IBAction func sharePDFTapped(_ sender: Any) {
-        guard let url = Bundle.main.url(forResource: "sharePDF", withExtension: "pdf") else { return }
+        guard let url = Bundle.main.url(forResource: "sharePdf", withExtension: "pdf") else { return }
         print(url)
         let controller = UIDocumentInteractionController(url: url)
         controller.delegate = self
