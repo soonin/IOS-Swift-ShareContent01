@@ -38,7 +38,7 @@
                                     <constraint firstAttribute="height" constant="34" id="3td-Xy-0A8"/>
                                     <constraint firstAttribute="width" constant="211" id="frJ-UK-zU5"/>
                                 </constraints>
-                                <state key="normal" title="Sahre String">
+                                <state key="normal" title="Sahre Image">
                                     <color key="titleColor" red="0.99942404029999998" green="0.98555368190000003" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
@@ -52,7 +52,7 @@
                                     <constraint firstAttribute="height" constant="34" id="cDa-qA-Q2U"/>
                                     <constraint firstAttribute="width" constant="211" id="q9T-sU-bv9"/>
                                 </constraints>
-                                <state key="normal" title="Sahre String">
+                                <state key="normal" title="Sahre Pdf file">
                                     <color key="titleColor" red="0.99942404029999998" green="0.98555368190000003" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>

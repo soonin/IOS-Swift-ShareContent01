@@ -12,6 +12,7 @@
 		FAC4C3C62060E94D0074F4E3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAC4C3C42060E94D0074F4E3 /* Main.storyboard */; };
 		FAC4C3C82060E94D0074F4E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAC4C3C72060E94D0074F4E3 /* Assets.xcassets */; };
 		FAC4C3CB2060E94D0074F4E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAC4C3C92060E94D0074F4E3 /* LaunchScreen.storyboard */; };
+		FAC4C3D32061DA4F0074F4E3 /* sharePDF.pdf in Resources */ = {isa = PBXBuildFile; fileRef = FAC4C3D22061D1CE0074F4E3 /* sharePDF.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -125,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAC4C3D32061DA4F0074F4E3 /* sharePDF.pdf in Resources */,
 				FAC4C3CB2060E94D0074F4E3 /* LaunchScreen.storyboard in Resources */,
 				FAC4C3C82060E94D0074F4E3 /* Assets.xcassets in Resources */,
 				FAC4C3C62060E94D0074F4E3 /* Main.storyboard in Resources */,
